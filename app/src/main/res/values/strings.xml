@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PenFix 2</string>
+    <string name="service_description">Draws a transparent layer on top of other apps so the pencil only writes when it really touches the screen. It does not read your screen or collect any data.</string>
+    <string name="help">1. Tap the first button below and open Accessibility settings.\n\n2. Find Pen Fix in the list of installed or downloaded apps and turn it ON. If it is greyed out, tap the second button, press the three dots at the top right and choose Allow restricted settings, then try again.\n\n3. A small toolbar floats on the screen. Tap Write to write on top of any app. Tap Write again to use the app underneath normally (scroll, tap, etc.).\n\n4. If the pencil still writes while hovering, tap the gear on the toolbar, hold the pencil just above the screen and watch the readout. Raise Min pressure until hovering no longer makes ink. If ink only appears when really pressing, you are done.</string>
+</resources>
